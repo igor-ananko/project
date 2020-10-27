@@ -1,1 +1,1 @@
-new-content
+New content from kraken 
